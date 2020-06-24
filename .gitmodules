@@ -1,0 +1,3 @@
+[submodule "bag3_liberty"]
+	path = bag3_liberty
+	url = git@login1.bcanalog.com:bag/bag3_liberty_release.git
